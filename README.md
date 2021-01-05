@@ -1,8 +1,8 @@
-#t9 predictive text 
+# t9 predictive text 
 
 Author: Blake Berringer Version: 9/18/2020.
 
-##This distribution contains:
+## This distribution contains:
 
 -- README -- this file
 
